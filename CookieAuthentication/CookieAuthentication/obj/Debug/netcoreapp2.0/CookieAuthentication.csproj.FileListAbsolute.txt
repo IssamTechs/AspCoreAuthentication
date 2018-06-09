@@ -1,0 +1,11 @@
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\bin\Debug\netcoreapp2.0\CookieAuthentication.deps.json
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\bin\Debug\netcoreapp2.0\CookieAuthentication.runtimeconfig.json
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\bin\Debug\netcoreapp2.0\CookieAuthentication.runtimeconfig.dev.json
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\bin\Debug\netcoreapp2.0\CookieAuthentication.dll
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\bin\Debug\netcoreapp2.0\CookieAuthentication.pdb
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.AssemblyInfoInputs.cache
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.AssemblyInfo.cs
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.dll
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.pdb
+C:\Users\Issam\Desktop\TFS\AspCoreAuthentication\CookieAuthentication\CookieAuthentication\obj\Debug\netcoreapp2.0\CookieAuthentication.csprojResolveAssemblyReference.cache
